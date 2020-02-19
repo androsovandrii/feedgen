@@ -15,16 +15,8 @@ dependencies {
 }
 
 
-apply plugin: "org.owasp.dependencycheck"
 
-dependencyCheck {
-    autoUpdate=false
-    cveValidForHours=1
-    format='JSON'
-}
-
-buildscript 
-{
+buildscript {
   repositories {
     maven {
       url "https://plugins.gradle.org/m2/"
@@ -43,7 +35,734 @@ buildscript
     classpath "org.owasp:dependency-check-gradle:5.3.0"
   }
 
-  
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
+
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.owasp:dependency-check-gradle:5.3.0"
+  }
 }
 
 apply plugin: "org.owasp.dependencycheck"
@@ -52,16 +771,7 @@ dependencyCheck {
     autoUpdate=false
     cveValidForHours=1
     format='JSON'
-}
-
-
-apply plugin: "org.owasp.dependencycheck"
-
-dependencyCheck {
-    autoUpdate=false
-    cveValidForHours=1
-    format='JSON'
-}
+  }
 
 apply plugin: "org.owasp.dependencycheck"
 
@@ -69,7 +779,631 @@ dependencyCheck {
     autoUpdate=false
     cveValidForHours=1
     format='JSON'
-}
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
+
+apply plugin: "org.owasp.dependencycheck"
+
+dependencyCheck {
+    autoUpdate=false
+    cveValidForHours=1
+    format='JSON'
+  }
 
 apply plugin: "org.owasp.dependencycheck"
 
