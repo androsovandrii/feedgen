@@ -38,7 +38,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -47,7 +47,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -56,7 +56,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -65,7 +65,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -74,7 +74,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -83,7 +83,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -92,7 +92,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -101,7 +101,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -110,7 +110,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -119,7 +119,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -128,7 +128,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -137,7 +137,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -146,7 +146,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -155,7 +155,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -164,7 +164,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -173,7 +173,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -182,7 +182,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -191,7 +191,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -200,7 +200,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -209,7 +209,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -218,7 +218,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -227,7 +227,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -236,7 +236,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -245,7 +245,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -254,7 +254,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -263,7 +263,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -272,7 +272,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -281,7 +281,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -290,7 +290,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -299,7 +299,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -308,7 +308,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -317,7 +317,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -326,7 +326,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -335,7 +335,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -344,7 +344,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -353,7 +353,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -362,7 +362,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -371,7 +371,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -380,7 +380,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -389,7 +389,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -398,7 +398,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -407,7 +407,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -416,7 +416,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -425,7 +425,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -434,7 +434,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -443,7 +443,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -452,7 +452,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -461,7 +461,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -470,7 +470,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -479,7 +479,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -488,7 +488,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -497,7 +497,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -506,7 +506,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -515,7 +515,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -524,7 +524,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -533,7 +533,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -542,7 +542,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -551,7 +551,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -560,7 +560,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -569,7 +569,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -578,7 +578,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -587,7 +587,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -596,7 +596,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -605,7 +605,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -614,7 +614,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -623,7 +623,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -632,7 +632,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -641,7 +641,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -650,7 +650,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -659,7 +659,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -668,7 +668,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -677,7 +677,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -686,7 +686,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -695,7 +695,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -704,7 +704,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -713,7 +713,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -722,7 +722,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -731,7 +731,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -740,7 +740,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -749,7 +749,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -758,7 +758,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -767,7 +767,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
@@ -776,7 +776,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "org.owasp:dependency-check-gradle:5.3.0"
+    classpath "org.owasp:dependency-check-gradle:6.1.0"
   }
 
   repositories {
